@@ -1,3 +1,3 @@
-# Resume
-My resume
+# Hello and Welcome
+## About Myself
 
